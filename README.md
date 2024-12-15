@@ -3,7 +3,17 @@
 - crete react vite
 - configure TailWind CSS
 - Header
+- Routing of App
 - login Form
+- Form Validation
+- useRef Hook
+- firebase setup
+- deploying app to production
+- Create signUp user account in firebase
+- Implement SignIn user API
+- Redux store created using redux
+
+
 
 # Features
 - Login Page
