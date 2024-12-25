@@ -12,7 +12,11 @@
 - Create signUp user account in firebase
 - Implement SignIn user API
 - Redux store created using redux
-
+- Register TMDB API and create an app & get access token
+- get data from TMDB now playing movies list
+- get TMDB trailer video & store that in store
+- display video tariler in background
+- get the now playing videos and dispaly that in secondary container
 
 
 # Features
